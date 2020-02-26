@@ -12,7 +12,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
     {
       'texto': 'Qual é a sua cor favorita?',
       'respostas': [
-        {'texto': 'Preto', 'pontuacao': 10},
+        {'texto': 'Cinza', 'pontuacao': 10},
         {'texto': 'Vermelho', 'pontuacao': 9},
         {'texto': 'Verde', 'pontuacao': 5},
         {'texto': 'Branco', 'pontuacao': 7},
